@@ -16,7 +16,7 @@ h3{
 }
 table{
     width:100%;
-    border-collapse:collapse;
+    
 }
 table th{
     background-color: green;
@@ -24,6 +24,16 @@ table th{
 }
 
 table th,td{
-    border-collapse:collapse
+    border-bottom:1px solid rgb(168, 79, 79);
+}
+
+label{
+    float: left;
+    width: 200px;
+}
+form{
+    width: 600px;
+    height: 200px;
+    
 }
 
